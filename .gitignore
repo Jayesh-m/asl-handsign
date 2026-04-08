@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pkl
+*.png
+*.csv
+*.toml
+uv.lock
+archive.zip
+backup
+archive
+main.py
+*.task
