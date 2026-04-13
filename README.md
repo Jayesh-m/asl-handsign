@@ -52,4 +52,4 @@ from Kaggle — 87,000 images across 29 classes.
 - MediaPipe Tasks API (hand landmark detection)
 - scikit-learn (Random Forest classifier)
 - OpenCV (webcam capture)
-- pyttsx3 (text-to-speech)
+- pyttsx3 (text-to-speec)
